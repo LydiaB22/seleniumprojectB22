@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "hhtp://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Calendar events tests">
+        <classes>
+
+        </classes>
+    </test>
+
+</suite>
